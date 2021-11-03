@@ -1,21 +1,15 @@
-# Project Title
+# ikeAR
 
-A brief description of what this project does and who it's for
+Augmented reality app that leverages computer vision to speed up assembling IKEA furniture by highlighting required components and overlaying instructional animations at each assembly step.
+
+Trained and deployed real-item object detection model with Tensorflow Lite; fine-tuned on custom IKEA assembly dataset composed of artificial data generated with Blender Proc.
+
+iOS app built with Swift; Used AR Foundation for tracking and overlays; Deployed with Firebase
 
 
 ## Authors
 
-- [@katherinepeterson](https://www.github.com/octokatherine)
-
-
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
+- [@AndrewSirenko](https://github.com/AndrewSirenko)
 
 ## Demo
 
@@ -29,35 +23,18 @@ Insert gif or link to demo
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
 
 
 ## Roadmap
 
-- Additional browser support
 
-- Add more integrations
 
 
 ## Usage/Examples
 
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
 
 
 ## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
 ## License
