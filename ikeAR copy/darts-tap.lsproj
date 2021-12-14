@@ -1,0 +1,3999 @@
+{
+    "lens_id": "",
+    "document_id": "JHkZOk1ZBE2qkiaNh7LJ",
+    "original_document_id": "lQhBWaDUcL-vla8YcBn4",
+    "version": "28",
+    "lastChanged": "1638464198145",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "private",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "7",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Dartboard",
+                        "Art",
+                        "Darboard_Board_MAT"
+                    ],
+                    [
+                        "Dartboard",
+                        "Art",
+                        "Dartboard_Base_MAT"
+                    ],
+                    [
+                        "Dartboard",
+                        "Art",
+                        "Dartboard_Base_TEX"
+                    ],
+                    [
+                        "Dartboard",
+                        "Art",
+                        "Dartboard_Board_TEX"
+                    ],
+                    [
+                        "Dartboard",
+                        "Art",
+                        "Dartboard_MDL"
+                    ],
+                    [
+                        "Dartboard",
+                        "Art",
+                        "Dartboard_MDL",
+                        "Dartboard"
+                    ],
+                    [
+                        "Dartboard",
+                        "Art",
+                        "Dartboard_MDL",
+                        "Meshes",
+                        "Back"
+                    ],
+                    [
+                        "Dartboard",
+                        "Art",
+                        "Dartboard_MDL",
+                        "Meshes",
+                        "Board"
+                    ],
+                    [
+                        "Dartboard",
+                        "Scripts"
+                    ],
+                    [
+                        "Dartboard",
+                        "Scripts",
+                        "Dartboard"
+                    ],
+                    [
+                        "Dartboard",
+                        "Scripts",
+                        "DartboardController"
+                    ],
+                    [
+                        "Dartboard",
+                        "Scripts",
+                        "PlaneTracker"
+                    ],
+                    [
+                        "Dartboard",
+                        "Scripts",
+                        "ScoreTest"
+                    ],
+                    [
+                        "Darts"
+                    ],
+                    [
+                        "Darts",
+                        "Art"
+                    ],
+                    [
+                        "Darts",
+                        "Art",
+                        "Dart_Barrel_MAT"
+                    ],
+                    [
+                        "Darts",
+                        "Art",
+                        "Dart_Flight_MAT"
+                    ],
+                    [
+                        "Darts",
+                        "Art",
+                        "Dart_MDL"
+                    ],
+                    [
+                        "Darts",
+                        "Art",
+                        "Dart_MDL",
+                        "Dart"
+                    ],
+                    [
+                        "Darts",
+                        "Art",
+                        "Dart_MDL",
+                        "Meshes"
+                    ],
+                    [
+                        "Darts",
+                        "Art",
+                        "Dart_MDL",
+                        "Meshes",
+                        "Barrel"
+                    ],
+                    [
+                        "Darts",
+                        "Art",
+                        "Dart_MDL",
+                        "Meshes",
+                        "Flight_0"
+                    ],
+                    [
+                        "Darts",
+                        "Art",
+                        "Dart_MDL",
+                        "Meshes",
+                        "Flight_0 2"
+                    ],
+                    [
+                        "Darts",
+                        "Art",
+                        "Dart_MDL",
+                        "Meshes",
+                        "Flight_0 3"
+                    ],
+                    [
+                        "Darts",
+                        "Art",
+                        "Dart_MDL",
+                        "Meshes",
+                        "Flight_0 4"
+                    ],
+                    [
+                        "Darts",
+                        "Art",
+                        "Dart_TEX"
+                    ],
+                    [
+                        "Darts",
+                        "Prefabs",
+                        "Dart_PRF"
+                    ],
+                    [
+                        "Darts",
+                        "Scripts",
+                        "Dart"
+                    ],
+                    [
+                        "Darts",
+                        "Scripts",
+                        "DartsManager"
+                    ],
+                    [
+                        "Darts",
+                        "Scripts",
+                        "SetPower"
+                    ],
+                    [
+                        "Darts",
+                        "Scripts",
+                        "ThrowDart"
+                    ],
+                    [
+                        "Darts",
+                        "Scripts",
+                        "WaitToStartThrow"
+                    ],
+                    [
+                        "Darts",
+                        "Sounds"
+                    ],
+                    [
+                        "Darts",
+                        "Sounds",
+                        "Swish_SFX"
+                    ],
+                    [
+                        "Darts",
+                        "Sounds",
+                        "Thump_SFX"
+                    ],
+                    [
+                        "FurnitureBuilding"
+                    ],
+                    [
+                        "FurnitureBuilding",
+                        "Box"
+                    ],
+                    [
+                        "FurnitureBuilding",
+                        "Box 2"
+                    ],
+                    [
+                        "FurnitureBuilding",
+                        "PieceAdd"
+                    ],
+                    [
+                        "FurnitureBuilding",
+                        "TestSpawner"
+                    ],
+                    [
+                        "Game"
+                    ],
+                    [
+                        "Game",
+                        "Materials",
+                        "Power_Bar_MAT"
+                    ],
+                    [
+                        "Game",
+                        "Scripts",
+                        "GameController"
+                    ],
+                    [
+                        "Game",
+                        "Scripts",
+                        "PowerBar"
+                    ],
+                    [
+                        "Game",
+                        "Scripts",
+                        "Scoreboard"
+                    ],
+                    [
+                        "Lens Studio"
+                    ],
+                    [
+                        "Lens Studio",
+                        "Base"
+                    ],
+                    [
+                        "Lens Studio",
+                        "Capture Target"
+                    ],
+                    [
+                        "Lens Studio",
+                        "Device Camera Texture"
+                    ],
+                    [
+                        "Lens Studio",
+                        "Echopark"
+                    ],
+                    [
+                        "Lens Studio",
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Lens Studio",
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Lens Studio",
+                        "Normal"
+                    ],
+                    [
+                        "System"
+                    ],
+                    [
+                        "System",
+                        "Hud"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813",
+                    "1623281150559074:510692",
+                    "1623696511879502:14755",
+                    "1623696855429262:48185",
+                    "1625254433808925:22964",
+                    "1625265424910345:290273",
+                    "1637091798535282:212626",
+                    "1637091870150759:216797",
+                    "1637107242010886:170480",
+                    "1638461444840297:32551",
+                    "1638462698057354:51060"
+                ]
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "8307d94f465a367fb5dfe77deef60a48",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Darts",
+            "applicability": "8",
+            "lens_descriptors": "",
+            "HermosaUseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1623280908745095:509637",
+                    "name": "Files\/File23",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1623280908845768:509668",
+                    "name": "Files\/File24.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1623280908890933:509680",
+                    "name": "Files\/File26.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1623280913071191:509838",
+                    "name": "Files\/File28",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1623695913410411:10323",
+                    "name": "Files\/File41.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1623707326947152:302372",
+                    "name": "Files\/File46.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1624902579480670:303648",
+                    "name": "Files\/File47.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1624902826520445:365553",
+                    "name": "Dart",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1624998412849573:15258",
+                    "name": "Files\/File53.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1624998420102534:17061",
+                    "name": "Files\/File56.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1624998420169093:17075",
+                    "name": "Files\/File58.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1624998420232625:17089",
+                    "name": "Files\/File60.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1624998420301410:17103",
+                    "name": "Files\/File62.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1624998420383168:17117",
+                    "name": "Files\/File64.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1624998420655613:17240",
+                    "name": "Dart",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1624998445966744:20097",
+                    "name": "Files\/File70",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1624998451744975:21430",
+                    "name": "Files\/File71",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1625000313344568:81927",
+                    "name": "Files\/File72",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "50",
+                    "uid": "1625000391994548:90583",
+                    "name": "Files\/File73.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "53",
+                    "uid": "1625002991953108:392304",
+                    "name": "Files\/File76.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "54",
+                    "uid": "1625003622706133:478691",
+                    "name": "Files\/File77.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "55",
+                    "uid": "1625157323703366:6774",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "58",
+                    "uid": "1636750305421959:6429",
+                    "name": "Files\/File92.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "59",
+                    "uid": "1636755539235743:6054",
+                    "name": "Files\/File93.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "61",
+                    "uid": "1636761876899926:14916",
+                    "name": "Files\/File96.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "62",
+                    "uid": "1636761886944339:16437",
+                    "name": "Files\/File97.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "63",
+                    "uid": "1636761893395321:17969",
+                    "name": "Files\/File98.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "64",
+                    "uid": "1636762330066129:25630",
+                    "name": "Files\/File99.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "65",
+                    "uid": "1636816334809597:34588",
+                    "name": "Files\/File107.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "67",
+                    "uid": "1637091793790596:211658",
+                    "name": "Files\/File109.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "68",
+                    "uid": "1637091793825968:211670",
+                    "name": "Files\/File110.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "69",
+                    "uid": "1637091794103739:211763",
+                    "name": "Dartboard",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "71",
+                    "uid": "1637107889208396:191117",
+                    "name": "Files\/File117.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "72",
+                    "uid": "1637107891707421:192650",
+                    "name": "Files\/File118.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "74",
+                    "uid": "1638461562814678:35638",
+                    "name": "Files\/File121.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "75",
+                    "uid": "1638462904525370:87000",
+                    "name": "Files\/File122.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "76",
+                    "uid": "1638462912660615:91254",
+                    "name": "Box",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "77",
+                    "uid": "1638462920424986:93002",
+                    "name": "Files\/File126.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "78",
+                    "uid": "1638464126610156:245023",
+                    "name": "Files\/File127.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "79",
+                    "uid": "1638464129869564:246196",
+                    "name": "Files\/File130.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1623696555280238:15855",
+                "4": "1623696585882031:17922",
+                "5": "1623696782970423:39501",
+                "6": "1623696855429262:48185",
+                "7": "1624999940662063:41358",
+                "8": "1625003007913989:395857",
+                "9": "1625003851374725:506134",
+                "10": "1625006360490732:739631",
+                "11": "1636750311811960:7556",
+                "12": "1636761909144503:19589",
+                "13": "1636761917772218:19666",
+                "14": "1636761924279388:19671",
+                "15": "1636762357646096:28086",
+                "16": "1636816424580652:48767",
+                "17": "1636820889353106:80767",
+                "18": "1637091371968359:208718",
+                "19": "1637091870150759:216797",
+                "20": "1637091870151318:216803",
+                "21": "1637091870152624:216817",
+                "22": "1637091870153376:216820",
+                "23": "1637091870159437:216895",
+                "24": "1637091870160479:216898",
+                "25": "1637091870161497:216901",
+                "26": "1637091870162695:216904",
+                "27": "1637091870163787:216907",
+                "28": "1637091870165560:216913",
+                "29": "1637107242010886:170480"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "4",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "UI",
+                    "layerMask": "2",
+                    "colorCode": "0"
+                },
+                {
+                    "layerId": "3",
+                    "layerName": "Layer 1",
+                    "layerMask": "4",
+                    "colorCode": "1"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.png"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.pvr"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.png"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.png"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.png"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.png"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.png"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.pvr"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.js"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.js"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.js"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.oprfb"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.oprfb"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.pvr"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.png"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.png"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.mesh"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57.mesh"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.mesh"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.mesh"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.mesh"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.mesh"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62.mesh"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.mesh"
+                },
+                {
+                    "k": "64",
+                    "v": "Files\/File64.mesh"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.mesh"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.oprfb"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.fbx"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.oprfb"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.pvr"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72"
+                },
+                {
+                    "k": "73",
+                    "v": "Files\/File73.js"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76.js"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77.js"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80.mesh"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.mesh"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82.mesh"
+                },
+                {
+                    "k": "83",
+                    "v": "Files\/File83.mesh"
+                },
+                {
+                    "k": "84",
+                    "v": "Files\/File84.mesh"
+                },
+                {
+                    "k": "85",
+                    "v": "Files\/File85.mesh"
+                },
+                {
+                    "k": "86",
+                    "v": "Files\/File86.mesh"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87.lsmat"
+                },
+                {
+                    "k": "88",
+                    "v": "Files\/File88.lsmat"
+                },
+                {
+                    "k": "89",
+                    "v": "Files\/File89.lsmat"
+                },
+                {
+                    "k": "90",
+                    "v": "Files\/File90.lsmat"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91.lsmat"
+                },
+                {
+                    "k": "92",
+                    "v": "Files\/File92.js"
+                },
+                {
+                    "k": "93",
+                    "v": "Files\/File93.js"
+                },
+                {
+                    "k": "96",
+                    "v": "Files\/File96.js"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97.js"
+                },
+                {
+                    "k": "98",
+                    "v": "Files\/File98.js"
+                },
+                {
+                    "k": "99",
+                    "v": "Files\/File99.js"
+                },
+                {
+                    "k": "102",
+                    "v": "Files\/File102.mesh"
+                },
+                {
+                    "k": "103",
+                    "v": "Files\/File103.mesh"
+                },
+                {
+                    "k": "104",
+                    "v": "Files\/File104.mesh"
+                },
+                {
+                    "k": "105",
+                    "v": "Files\/File105.mesh"
+                },
+                {
+                    "k": "106",
+                    "v": "Files\/File106.mesh"
+                },
+                {
+                    "k": "107",
+                    "v": "Files\/File107.js"
+                },
+                {
+                    "k": "109",
+                    "v": "Files\/File109.mesh"
+                },
+                {
+                    "k": "110",
+                    "v": "Files\/File110.mesh"
+                },
+                {
+                    "k": "111",
+                    "v": "Files\/File111.oprfb"
+                },
+                {
+                    "k": "112",
+                    "v": "Files\/File112.fbx"
+                },
+                {
+                    "k": "113",
+                    "v": "Files\/File113.mesh"
+                },
+                {
+                    "k": "114",
+                    "v": "Files\/File114.mesh"
+                },
+                {
+                    "k": "115",
+                    "v": "Files\/File115.oprfb"
+                },
+                {
+                    "k": "117",
+                    "v": "Files\/File117.mp3"
+                },
+                {
+                    "k": "118",
+                    "v": "Files\/File118.mp3"
+                },
+                {
+                    "k": "121",
+                    "v": "Files\/File121.js"
+                },
+                {
+                    "k": "122",
+                    "v": "Files\/File122.mesh"
+                },
+                {
+                    "k": "123",
+                    "v": "Files\/File123.mesh"
+                },
+                {
+                    "k": "124",
+                    "v": "Files\/File124.oprfb"
+                },
+                {
+                    "k": "125",
+                    "v": "Files\/File125.oprfb"
+                },
+                {
+                    "k": "126",
+                    "v": "Files\/File126.js"
+                },
+                {
+                    "k": "127",
+                    "v": "Files\/File127.pvr"
+                },
+                {
+                    "k": "128",
+                    "v": "Files\/File128.png"
+                },
+                {
+                    "k": "129",
+                    "v": "Files\/File129.png"
+                },
+                {
+                    "k": "130",
+                    "v": "Files\/File130.pvr"
+                },
+                {
+                    "k": "131",
+                    "v": "Files\/File131.png"
+                },
+                {
+                    "k": "132",
+                    "v": "Files\/File132.png"
+                },
+                {
+                    "k": "133",
+                    "v": "Files\/File133.pvr"
+                },
+                {
+                    "k": "134",
+                    "v": "Files\/File134.pvr"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Lens Studio\/Echopark.hdr"
+                    },
+                    {
+                        "k": "8142",
+                        "v": "Lens Studio"
+                    },
+                    {
+                        "k": "8146",
+                        "v": "Lens Studio\/Base.png"
+                    },
+                    {
+                        "k": "8147",
+                        "v": "Lens Studio\/Normal.png"
+                    },
+                    {
+                        "k": "8148",
+                        "v": "Dartboard\/Art\/Dartboard_Base_MAT.lsmat"
+                    },
+                    {
+                        "k": "8149",
+                        "v": "Dartboard\/Art\/Darboard_Board_MAT.lsmat"
+                    },
+                    {
+                        "k": "8176",
+                        "v": "System\/Hud.js"
+                    },
+                    {
+                        "k": "8180",
+                        "v": "Game\/Materials"
+                    },
+                    {
+                        "k": "8186",
+                        "v": "Dartboard\/Scripts\/Dartboard.js"
+                    },
+                    {
+                        "k": "8187",
+                        "v": "Darts\/Scripts\/Dart.js"
+                    },
+                    {
+                        "k": "8190",
+                        "v": "Darts\/Prefabs"
+                    },
+                    {
+                        "k": "8191",
+                        "v": "Darts\/Prefabs\/Dart_PRF.oprfb"
+                    },
+                    {
+                        "k": "8192",
+                        "v": "Darts\/Art\/Dart_TEX.png"
+                    },
+                    {
+                        "k": "8193",
+                        "v": "Darts\/Art\/Dart_MDL.fbx"
+                    },
+                    {
+                        "k": "8194",
+                        "v": "Darts\/Art\/Dart_Barrel_MAT.lsmat"
+                    },
+                    {
+                        "k": "8195",
+                        "v": "Darts\/Art\/Dart_Flight_MAT.lsmat"
+                    },
+                    {
+                        "k": "8198",
+                        "v": "Game\/Materials\/Power_Bar_MAT.lsmat"
+                    },
+                    {
+                        "k": "8199",
+                        "v": "Game\/Scripts\/PowerBar.js"
+                    },
+                    {
+                        "k": "8202",
+                        "v": "Dartboard\/Scripts\/ScoreTest.js"
+                    },
+                    {
+                        "k": "8203",
+                        "v": "Game\/Scripts\/Scoreboard.js"
+                    },
+                    {
+                        "k": "8204",
+                        "v": "Darts\/Sounds"
+                    },
+                    {
+                        "k": "8207",
+                        "v": "Dartboard\/Scripts\/PlaneTracker.js"
+                    },
+                    {
+                        "k": "8208",
+                        "v": "Darts\/Scripts"
+                    },
+                    {
+                        "k": "8209",
+                        "v": "Dartboard\/Scripts\/DartboardController.js"
+                    },
+                    {
+                        "k": "8212",
+                        "v": "Darts\/Scripts\/DartsManager.js"
+                    },
+                    {
+                        "k": "8213",
+                        "v": "Darts\/Scripts\/ThrowDart.js"
+                    },
+                    {
+                        "k": "8214",
+                        "v": "Darts\/Scripts\/SetPower.js"
+                    },
+                    {
+                        "k": "8215",
+                        "v": "Darts\/Scripts\/WaitToStartThrow.js"
+                    },
+                    {
+                        "k": "8216",
+                        "v": "Game\/Scripts\/GameController.js"
+                    },
+                    {
+                        "k": "8218",
+                        "v": "Dartboard\/Scripts"
+                    },
+                    {
+                        "k": "8219",
+                        "v": "Darts"
+                    },
+                    {
+                        "k": "8220",
+                        "v": "Dartboard"
+                    },
+                    {
+                        "k": "8221",
+                        "v": "Dartboard\/Art"
+                    },
+                    {
+                        "k": "8223",
+                        "v": "Darts\/Art"
+                    },
+                    {
+                        "k": "8224",
+                        "v": "Game"
+                    },
+                    {
+                        "k": "8225",
+                        "v": "Game\/Scripts"
+                    },
+                    {
+                        "k": "8226",
+                        "v": "System"
+                    },
+                    {
+                        "k": "8228",
+                        "v": "Dartboard\/Art\/Dartboard_MDL.fbx"
+                    },
+                    {
+                        "k": "8230",
+                        "v": "Darts\/Sounds\/Swish_SFX.mp3"
+                    },
+                    {
+                        "k": "8231",
+                        "v": "Darts\/Sounds\/Thump_SFX.mp3"
+                    },
+                    {
+                        "k": "8233",
+                        "v": "FurnitureBuilding\/PieceAdd.js"
+                    },
+                    {
+                        "k": "8234",
+                        "v": "FurnitureBuilding\/Box.mesh"
+                    },
+                    {
+                        "k": "8235",
+                        "v": "FurnitureBuilding\/Box 2.oprfb"
+                    },
+                    {
+                        "k": "8236",
+                        "v": "FurnitureBuilding\/TestSpawner.js"
+                    },
+                    {
+                        "k": "8237",
+                        "v": "Dartboard\/Art\/Dartboard_Base_TEX.png"
+                    },
+                    {
+                        "k": "8238",
+                        "v": "Dartboard\/Art\/Dartboard_Board_TEX.png"
+                    },
+                    {
+                        "k": "8239",
+                        "v": "FurnitureBuilding"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "8140",
+                        "v": "e3aadae6d689e0d8c071f418d5d45de5"
+                    },
+                    {
+                        "k": "8141",
+                        "v": "e6519bcaebbb23d83ee65e3c12ec22ae"
+                    },
+                    {
+                        "k": "8143",
+                        "v": "9737c82d17d68ac55e85c387ca8c1261"
+                    },
+                    {
+                        "k": "8144",
+                        "v": "960684792f25896ff5773e124e61fc5b"
+                    },
+                    {
+                        "k": "8146",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "8147",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "8148",
+                        "v": "156a87e6bd3bb79a65f4998ab7aeb10e"
+                    },
+                    {
+                        "k": "8149",
+                        "v": "8e572062d1afab4544145305598ebb9d"
+                    },
+                    {
+                        "k": "8168",
+                        "v": "e55b2248b616df47c7071e0f29fb9564"
+                    },
+                    {
+                        "k": "8169",
+                        "v": "e037459604b0c5f50a6b4eaacfa243b4"
+                    },
+                    {
+                        "k": "8170",
+                        "v": "08dbd3eb02725067672ced99943ccb3f"
+                    },
+                    {
+                        "k": "8171",
+                        "v": "e9d55a9bb9508cb78e55aa953b2077ae"
+                    },
+                    {
+                        "k": "8172",
+                        "v": "e70c39d4eaa04f4dcd8a659b55bf5899"
+                    },
+                    {
+                        "k": "8173",
+                        "v": "30b21611ecf177bc4f5d29121f3e55a3"
+                    },
+                    {
+                        "k": "8174",
+                        "v": "c66fb7bb98b124187cb0f15442187c88"
+                    },
+                    {
+                        "k": "8175",
+                        "v": "d9856056b6bb9fd803fcc6e12c666f4c"
+                    },
+                    {
+                        "k": "8176",
+                        "v": "58b2d5dc267a6d7c83585e784c5c27c3"
+                    },
+                    {
+                        "k": "8177",
+                        "v": "c41d3ae4e2ba1095d747298f5b2ad96b"
+                    },
+                    {
+                        "k": "8178",
+                        "v": "d5fb3829166ff7791e0c117c3e452ea1"
+                    },
+                    {
+                        "k": "8184",
+                        "v": "e15fe67443f6a2d54b8c53cccd0100df"
+                    },
+                    {
+                        "k": "8185",
+                        "v": "f0678cf80d8cd5355c0a3177ae40c82c"
+                    },
+                    {
+                        "k": "8186",
+                        "v": "85a7087d48dad18a138bb4d842148257"
+                    },
+                    {
+                        "k": "8187",
+                        "v": "79df8377dacdeff4f429ba1ded1b8492"
+                    },
+                    {
+                        "k": "8188",
+                        "v": "f85aca86a5a97967d389669b34185409"
+                    },
+                    {
+                        "k": "8189",
+                        "v": "621da74e06cc402b895f39376927a9d1"
+                    },
+                    {
+                        "k": "8191",
+                        "v": "d6ad5194cbe6c1f68e22032b5e7ec566"
+                    },
+                    {
+                        "k": "8192",
+                        "v": "f2ef31563defc25cb3b96a3a1f8c194d"
+                    },
+                    {
+                        "k": "8193",
+                        "v": "b0ce4cb6857a7ca29fa2eaea71cb66f2"
+                    },
+                    {
+                        "k": "8194",
+                        "v": "12f99d6e544161d66ed31c366ab9114c"
+                    },
+                    {
+                        "k": "8195",
+                        "v": "c5ca191dfc1ce1276a1eb24900c493d5"
+                    },
+                    {
+                        "k": "8196",
+                        "v": "d41d8cd98f00b204e9800998ecf8427e"
+                    },
+                    {
+                        "k": "8197",
+                        "v": "d41d8cd98f00b204e9800998ecf8427e"
+                    },
+                    {
+                        "k": "8198",
+                        "v": "c08a3836f6898d0c220f178e324d29e5"
+                    },
+                    {
+                        "k": "8199",
+                        "v": "428a4a474f23941e9bcd3460c69a012a"
+                    },
+                    {
+                        "k": "8200",
+                        "v": "7a2d2821e1c48c056a823412c6da57cd"
+                    },
+                    {
+                        "k": "8201",
+                        "v": "e9d55a9bb9508cb78e55aa953b2077ae"
+                    },
+                    {
+                        "k": "8202",
+                        "v": "ceaaf8aca253f755961efecd7c14c10a"
+                    },
+                    {
+                        "k": "8203",
+                        "v": "ad93e4e42da250b191ca0e700a290910"
+                    },
+                    {
+                        "k": "8204",
+                        "v": "d41d8cd98f00b204e9800998ecf8427e"
+                    },
+                    {
+                        "k": "8205",
+                        "v": "24c5948b0eeb21546c20a56d1f17fdfb"
+                    },
+                    {
+                        "k": "8206",
+                        "v": "8f1bee1e592cfb718465586dac4edca0"
+                    },
+                    {
+                        "k": "8207",
+                        "v": "6d51530261de44f6c86b723a1a3b58ec"
+                    },
+                    {
+                        "k": "8208",
+                        "v": "94479a14d18db844992cc2f9604a48e3"
+                    },
+                    {
+                        "k": "8209",
+                        "v": "99e9e66ef35e3f1ac5558de92210f9f3"
+                    },
+                    {
+                        "k": "8210",
+                        "v": "77c2edd795d994412cf2125d15546404"
+                    },
+                    {
+                        "k": "8211",
+                        "v": "f3f8f179b87ba4b5a44077fb80d53214"
+                    },
+                    {
+                        "k": "8212",
+                        "v": "4ee55ed8c314a66d1193606848f61579"
+                    },
+                    {
+                        "k": "8213",
+                        "v": "d69fa330d6b72e11db747c54e9b20616"
+                    },
+                    {
+                        "k": "8214",
+                        "v": "4011a36ba22e28b4716f31b4c522b123"
+                    },
+                    {
+                        "k": "8215",
+                        "v": "c082485cb5a22a2195b238c47e8fe07f"
+                    },
+                    {
+                        "k": "8216",
+                        "v": "e0e8e5ec1038be43195c6df5c51201e7"
+                    },
+                    {
+                        "k": "8217",
+                        "v": "92450dcfedd0562a2cacb119c57d488a"
+                    },
+                    {
+                        "k": "8218",
+                        "v": "1ebb64c03f9e9f13450152ee56a76643"
+                    },
+                    {
+                        "k": "8219",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "8220",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "8227",
+                        "v": "906977e493029a25d701c0691ad7e3ac"
+                    },
+                    {
+                        "k": "8228",
+                        "v": "55b421205e537376e3e2115b71ec0a48"
+                    },
+                    {
+                        "k": "8229",
+                        "v": "31f83dc2959c49e3942d35a6ab6e7e89"
+                    },
+                    {
+                        "k": "8230",
+                        "v": "341caaf2f410bea69d6128ee94aba62a"
+                    },
+                    {
+                        "k": "8231",
+                        "v": "abc68946d8796762f24fb30b3ba3f26e"
+                    },
+                    {
+                        "k": "8232",
+                        "v": "3df275ee42116a87aa883952aced0b54"
+                    },
+                    {
+                        "k": "8233",
+                        "v": "b106a24c55e10f6b3241c0f235509280"
+                    },
+                    {
+                        "k": "8234",
+                        "v": "621da74e06cc402b895f39376927a9d1"
+                    },
+                    {
+                        "k": "8235",
+                        "v": "7344c10aea39144a10b707e41e42e85b"
+                    },
+                    {
+                        "k": "8236",
+                        "v": "d937bc1bf467d2b53b98ebbbbf06ea63"
+                    },
+                    {
+                        "k": "8237",
+                        "v": "9737c82d17d68ac55e85c387ca8c1261"
+                    },
+                    {
+                        "k": "8238",
+                        "v": "9e8cd31b9d789a6a2aa68105ca7295d6"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-12-02T08:56:23",
+                        "name": "Public",
+                        "hash": "469d48b05523bc625ad2fb43552c3f46",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-11-30T15:21:39",
+                                "name": "Dartboard",
+                                "hash": "6b5bc7559109c9a924a9136109bf2d92",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-12-02T08:55:54",
+                                        "name": "Art",
+                                        "hash": "843f5cbbdbf685960b2162a28dfbf5a1",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-12-02T08:55:54",
+                                                "name": "Darboard_Board_MAT.lsmat",
+                                                "hash": "8e572062d1afab4544145305598ebb9d",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-30T15:37:25",
+                                                "name": "Dartboard_Board_TEX.png",
+                                                "hash": "9e8cd31b9d789a6a2aa68105ca7295d6",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-06-09T16:23:59",
+                                                "name": "Dartboard_Base_TEX.png",
+                                                "hash": "9737c82d17d68ac55e85c387ca8c1261",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-12-02T08:55:51",
+                                                "name": "Dartboard_Base_MAT.lsmat",
+                                                "hash": "156a87e6bd3bb79a65f4998ab7aeb10e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-16T11:43:10",
+                                                "name": "Dartboard_MDL.fbx",
+                                                "hash": "55b421205e537376e3e2115b71ec0a48",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-15T16:04:07",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-11-16T14:20:38",
+                                        "name": "Scripts",
+                                        "hash": "f1df0682b06f53cf09508aa29be6dc4e",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-15T17:19:29",
+                                                "name": "ScoreTest.js",
+                                                "hash": "ceaaf8aca253f755961efecd7c14c10a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-16T11:32:42",
+                                                "name": "PlaneTracker.js",
+                                                "hash": "6d51530261de44f6c86b723a1a3b58ec",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-15T17:15:21",
+                                                "name": "Dartboard.js",
+                                                "hash": "85a7087d48dad18a138bb4d842148257",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-16T14:20:38",
+                                                "name": "DartboardController.js",
+                                                "hash": "99e9e66ef35e3f1ac5558de92210f9f3",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-13T08:21:39",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-15T16:03:35",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-11-15T16:13:33",
+                                "name": "Game",
+                                "hash": "68192398125eaf5a3c0406ebe5d7160a",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-11-15T16:13:33",
+                                        "name": "Materials",
+                                        "hash": "b7001f546067e5cb76332fb58e0631b7",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-15T16:13:33",
+                                                "name": "Power_Bar_MAT.lsmat",
+                                                "hash": "c08a3836f6898d0c220f178e324d29e5",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-06-14T11:39:12",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-11-16T16:28:17",
+                                        "name": "Scripts",
+                                        "hash": "4e218667cfd3accb9731a4b1660e2e0c",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-13T08:30:08",
+                                                "name": "Scoreboard.js",
+                                                "hash": "ad93e4e42da250b191ca0e700a290910",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-16T16:06:21",
+                                                "name": "PowerBar.js",
+                                                "hash": "428a4a474f23941e9bcd3460c69a012a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-16T11:59:28",
+                                                "name": "GameController.js",
+                                                "hash": "e0e8e5ec1038be43195c6df5c51201e7",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-15T16:08:58",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-15T16:08:45",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-12-02T08:56:24",
+                                "name": "FurnitureBuilding",
+                                "hash": "6dc28e034ec8669677ec67ab4a348a86",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-12-02T08:34:54",
+                                        "name": "PieceAdd.js",
+                                        "hash": "b106a24c55e10f6b3241c0f235509280",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-12-02T08:42:17",
+                                        "name": "TestSpawner.js",
+                                        "hash": "d937bc1bf467d2b53b98ebbbbf06ea63",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-12-02T08:56:23",
+                                        "name": "Box 2.oprfb",
+                                        "hash": "7344c10aea39144a10b707e41e42e85b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-12-02T08:35:04",
+                                        "name": "Box.mesh",
+                                        "hash": "621da74e06cc402b895f39376927a9d1",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-12-02T08:56:07",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-11-16T16:28:17",
+                                "name": "System",
+                                "hash": "d32eb9ea8e03e5ed498f771ac5ccd069",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-16T15:07:19",
+                                        "name": "Hud.js",
+                                        "hash": "58b2d5dc267a6d7c83585e784c5c27c3",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-15T16:11:11",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-11-16T16:11:18",
+                                "name": "Darts",
+                                "hash": "0476a0d9b77cdbf693567fc81c58618e",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-11-16T16:12:07",
+                                        "name": "Prefabs",
+                                        "hash": "7a86dc8c6189216aa51f810f66d9bbb9",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-16T16:12:07",
+                                                "name": "Dart_PRF.oprfb",
+                                                "hash": "d6ad5194cbe6c1f68e22032b5e7ec566",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-06-28T10:53:28",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-11-15T16:47:56",
+                                        "name": "Art",
+                                        "hash": "dcc911f94be92d10d8465927181333f4",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-15T16:47:56",
+                                                "name": "Dart_Flight_MAT.lsmat",
+                                                "hash": "c5ca191dfc1ce1276a1eb24900c493d5",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-06-29T13:23:55",
+                                                "name": "Dart_TEX.png",
+                                                "hash": "f2ef31563defc25cb3b96a3a1f8c194d",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-06-29T12:01:27",
+                                                "name": "Dart_MDL.fbx",
+                                                "hash": "b0ce4cb6857a7ca29fa2eaea71cb66f2",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-15T16:47:56",
+                                                "name": "Dart_Barrel_MAT.lsmat",
+                                                "hash": "12f99d6e544161d66ed31c366ab9114c",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-15T16:04:32",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-11-16T16:13:48",
+                                        "name": "Sounds",
+                                        "hash": "56a2ba19f682afdf510604f7cdec564d",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-16T16:10:42",
+                                                "name": "Thump_SFX.mp3",
+                                                "hash": "abc68946d8796762f24fb30b3ba3f26e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-16T16:09:59",
+                                                "name": "Swish_SFX.mp3",
+                                                "hash": "341caaf2f410bea69d6128ee94aba62a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-07-01T10:39:33",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-11-17T08:48:22",
+                                        "name": "Scripts",
+                                        "hash": "4d4f294ee54d3c324d1f5023a171e4dc",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-16T15:02:24",
+                                                "name": "Dart.js",
+                                                "hash": "79df8377dacdeff4f429ba1ded1b8492",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-17T08:48:22",
+                                                "name": "WaitToStartThrow.js",
+                                                "hash": "c082485cb5a22a2195b238c47e8fe07f",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-17T08:48:02",
+                                                "name": "ThrowDart.js",
+                                                "hash": "d69fa330d6b72e11db747c54e9b20616",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-16T15:05:27",
+                                                "name": "DartsManager.js",
+                                                "hash": "4ee55ed8c314a66d1193606848f61579",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-17T08:47:45",
+                                                "name": "SetPower.js",
+                                                "hash": "4011a36ba22e28b4716f31b4c522b123",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-12T14:18:52",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-15T16:03:07",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-08-18T17:45:56",
+                                "name": "Lens Studio",
+                                "hash": "7364d144f056c9d25475a19bc27a1034",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-09T16:21:48",
+                                        "name": "Base.png",
+                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-09T16:21:48",
+                                        "name": "Normal.png",
+                                        "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-05-24T03:53:28",
+                                        "name": "Echopark.hdr",
+                                        "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-09T10:54:27",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-05-24T03:53:28",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": [
+                    "8148",
+                    "8149",
+                    "8194",
+                    "8195",
+                    "8198"
+                ]
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Lens Studio",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "8142",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Echopark",
+                                "type": "9",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "7",
+                                "originalId": "18446744073709551615",
+                                "publicId": "967",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Diff",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "10",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1588296316843646:534374",
+                                        "fileId": "3",
+                                        "originalId": "4",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Specular",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "11",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1588296316857901:534385",
+                                        "fileId": "5",
+                                        "originalId": "6",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Live Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": {
+                                    "resourceInfoExportKey": {
+                                        "RenderTargetRole": "1"
+                                    }
+                                }
+                            },
+                            {
+                                "name": "Base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "18",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1623280908845768:509668",
+                                "fileId": "24",
+                                "originalId": "25",
+                                "publicId": "8146",
+                                "source": "\/private\/var\/folders\/1m\/11bc7pkd3296mtnshy3hy1840000gn\/T\/Lens Studio Internal-TDdcUw\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "cb607d7b25a160872c49fb4d2635cc33"
+                                }
+                            },
+                            {
+                                "name": "Normal",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "19",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1623280908890933:509680",
+                                "fileId": "26",
+                                "originalId": "27",
+                                "publicId": "8147",
+                                "source": "\/private\/var\/folders\/1m\/11bc7pkd3296mtnshy3hy1840000gn\/T\/Lens Studio Internal-TDdcUw\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                                }
+                            },
+                            {
+                                "name": "Capture Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "55",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1625157323703366:6774",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Darts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "8219",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Prefabs",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "8190",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Dart_PRF",
+                                        "type": "12",
+                                        "subtype": "-1",
+                                        "resourceId": "39",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1624902826520445:365553",
+                                        "fileId": "51",
+                                        "originalId": "52",
+                                        "publicId": "8191",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Scripts",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "8208",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "DartsManager",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "61",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1636761876899926:14916",
+                                        "fileId": "96",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8212",
+                                        "source": "\/private\/var\/folders\/1m\/11bc7pkd3296mtnshy3hy1840000gn\/T\/Lens Studio Internal-qVEkSD\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "ThrowDart",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "62",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1636761886944339:16437",
+                                        "fileId": "97",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8213",
+                                        "source": "\/private\/var\/folders\/1m\/11bc7pkd3296mtnshy3hy1840000gn\/T\/Lens Studio Internal-qVEkSD\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "SetPower",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "63",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1636761893395321:17969",
+                                        "fileId": "98",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8214",
+                                        "source": "\/private\/var\/folders\/1m\/11bc7pkd3296mtnshy3hy1840000gn\/T\/Lens Studio Internal-qVEkSD\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Dart",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "36",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1624902579480670:303648",
+                                        "fileId": "47",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8187",
+                                        "source": "\/private\/var\/folders\/1m\/11bc7pkd3296mtnshy3hy1840000gn\/T\/Lens Studio Internal-UoChoE\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "WaitToStartThrow",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "64",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1636762330066129:25630",
+                                        "fileId": "99",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8215",
+                                        "source": "\/private\/var\/folders\/1m\/11bc7pkd3296mtnshy3hy1840000gn\/T\/Lens Studio Internal-qVEkSD\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Art",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "8223",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Dart_MDL",
+                                        "type": "18",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "2",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "67",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8193",
+                                        "source": "\/Users\/tbrown\/Dev\/Hermosa\/slingshot\/Public\/Models\/Dart.fbx",
+                                        "additional": {
+                                            "materialMapping": ""
+                                        },
+                                        "resources": [
+                                            {
+                                                "name": "Meshes",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "1",
+                                                "hidden": "false",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "Barrel",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "41",
+                                                        "dependency": "1",
+                                                        "hidden": "false",
+                                                        "uid": "1624998420102534:17061",
+                                                        "fileId": "56",
+                                                        "originalId": "57",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "\/private\/var\/folders\/1m\/11bc7pkd3296mtnshy3hy1840000gn\/T\/Lens Studio Internal-EPqwFs\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "Flight_0",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "42",
+                                                        "dependency": "1",
+                                                        "hidden": "false",
+                                                        "uid": "1624998420169093:17075",
+                                                        "fileId": "58",
+                                                        "originalId": "59",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "\/private\/var\/folders\/1m\/11bc7pkd3296mtnshy3hy1840000gn\/T\/Lens Studio Internal-EPqwFs\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "Flight_0 2",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "43",
+                                                        "dependency": "1",
+                                                        "hidden": "false",
+                                                        "uid": "1624998420232625:17089",
+                                                        "fileId": "60",
+                                                        "originalId": "61",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "\/private\/var\/folders\/1m\/11bc7pkd3296mtnshy3hy1840000gn\/T\/Lens Studio Internal-EPqwFs\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "Flight_0 3",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "44",
+                                                        "dependency": "1",
+                                                        "hidden": "false",
+                                                        "uid": "1624998420301410:17103",
+                                                        "fileId": "62",
+                                                        "originalId": "63",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "\/private\/var\/folders\/1m\/11bc7pkd3296mtnshy3hy1840000gn\/T\/Lens Studio Internal-EPqwFs\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "Flight_0 4",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "45",
+                                                        "dependency": "1",
+                                                        "hidden": "false",
+                                                        "uid": "1624998420383168:17117",
+                                                        "fileId": "64",
+                                                        "originalId": "65",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "\/private\/var\/folders\/1m\/11bc7pkd3296mtnshy3hy1840000gn\/T\/Lens Studio Internal-EPqwFs\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                        "additional": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Dart",
+                                                "type": "12",
+                                                "subtype": "-1",
+                                                "resourceId": "46",
+                                                "dependency": "1",
+                                                "hidden": "false",
+                                                "uid": "1624998420655613:17240",
+                                                "fileId": "66",
+                                                "originalId": "68",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Dart_Barrel_MAT",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "47",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1624998445966744:20097",
+                                        "fileId": "70",
+                                        "originalId": "89",
+                                        "publicId": "8194",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Dart_Flight_MAT",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "48",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1624998451744975:21430",
+                                        "fileId": "71",
+                                        "originalId": "90",
+                                        "publicId": "8195",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Dart_TEX",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "40",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1624998412849573:15258",
+                                        "fileId": "53",
+                                        "originalId": "54",
+                                        "publicId": "8192",
+                                        "source": "\/Users\/tbrown\/Dev\/Hermosa\/slingshot\/Public\/Textures\/Dart_Tex.png",
+                                        "additional": {
+                                            "originHash": "f2ef31563defc25cb3b96a3a1f8c194d"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sounds",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "8204",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Swish_SFX",
+                                        "type": "5",
+                                        "subtype": "0",
+                                        "resourceId": "71",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1637107889208396:191117",
+                                        "fileId": "117",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8230",
+                                        "source": "\/Users\/tbrown\/Dev\/Hermosa\/darts-tap\/Public\/Darts\/Sounds\/Swish_SFX.mp3",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Thump_SFX",
+                                        "type": "5",
+                                        "subtype": "0",
+                                        "resourceId": "72",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1637107891707421:192650",
+                                        "fileId": "118",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8231",
+                                        "source": "\/Users\/tbrown\/Dev\/Hermosa\/darts-tap\/Public\/Darts\/Sounds\/Thump_SFX.mp3",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dartboard",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "8220",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Scripts",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "8218",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "DartboardController",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "59",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1636755539235743:6054",
+                                        "fileId": "93",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8209",
+                                        "source": "\/private\/var\/folders\/1m\/11bc7pkd3296mtnshy3hy1840000gn\/T\/Lens Studio Internal-TAZHPQ\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Dartboard",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "35",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1623707326947152:302372",
+                                        "fileId": "46",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8186",
+                                        "source": "\/private\/var\/folders\/1m\/11bc7pkd3296mtnshy3hy1840000gn\/T\/Lens Studio Internal-fBilWv\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "PlaneTracker",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "58",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1636750305421959:6429",
+                                        "fileId": "92",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8207",
+                                        "source": "\/Users\/tbrown\/Dev\/Hermosa\/_demos\/planar-content-demo\/Public\/PlaneTracker.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "ScoreTest",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "53",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1625002991953108:392304",
+                                        "fileId": "76",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8202",
+                                        "source": "\/private\/var\/folders\/1m\/11bc7pkd3296mtnshy3hy1840000gn\/T\/Lens Studio Internal-EPqwFs\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Art",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "8221",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Dartboard_Base_MAT",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "17",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1623280908745095:509637",
+                                        "fileId": "23",
+                                        "originalId": "87",
+                                        "publicId": "8148",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Darboard_Board_MAT",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "20",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1623280913071191:509838",
+                                        "fileId": "28",
+                                        "originalId": "88",
+                                        "publicId": "8149",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Dartboard_MDL",
+                                        "type": "18",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "2",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "112",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8228",
+                                        "source": "\/Users\/tbrown\/Dev\/Hermosa\/darts-tap\/Public\/Dartboard.fbx",
+                                        "additional": {
+                                            "materialMapping": ""
+                                        },
+                                        "resources": [
+                                            {
+                                                "name": "Meshes",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "1",
+                                                "hidden": "false",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "Board",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "67",
+                                                        "dependency": "1",
+                                                        "hidden": "false",
+                                                        "uid": "1637091793790596:211658",
+                                                        "fileId": "109",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "\/private\/var\/folders\/1m\/11bc7pkd3296mtnshy3hy1840000gn\/T\/Lens Studio-swQtxN\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                        "additional": {
+                                                            "info": {
+                                                                "vertexAttribs": [
+                                                                    {
+                                                                        "semantic": "position",
+                                                                        "format": "9",
+                                                                        "canBeDisabled": "false"
+                                                                    },
+                                                                    {
+                                                                        "semantic": "normal",
+                                                                        "format": "9",
+                                                                        "canBeDisabled": "true"
+                                                                    },
+                                                                    {
+                                                                        "semantic": "tangent",
+                                                                        "format": "9",
+                                                                        "canBeDisabled": "true"
+                                                                    },
+                                                                    {
+                                                                        "semantic": "texture0",
+                                                                        "format": "9",
+                                                                        "canBeDisabled": "true"
+                                                                    }
+                                                                ],
+                                                                "hasBlendShapes": "false",
+                                                                "hasSkinBones": "false"
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "Back",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "68",
+                                                        "dependency": "1",
+                                                        "hidden": "false",
+                                                        "uid": "1637091793825968:211670",
+                                                        "fileId": "110",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "\/private\/var\/folders\/1m\/11bc7pkd3296mtnshy3hy1840000gn\/T\/Lens Studio-swQtxN\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                        "additional": {
+                                                            "info": {
+                                                                "vertexAttribs": [
+                                                                    {
+                                                                        "semantic": "position",
+                                                                        "format": "9",
+                                                                        "canBeDisabled": "false"
+                                                                    },
+                                                                    {
+                                                                        "semantic": "normal",
+                                                                        "format": "9",
+                                                                        "canBeDisabled": "true"
+                                                                    },
+                                                                    {
+                                                                        "semantic": "tangent",
+                                                                        "format": "9",
+                                                                        "canBeDisabled": "true"
+                                                                    },
+                                                                    {
+                                                                        "semantic": "texture0",
+                                                                        "format": "9",
+                                                                        "canBeDisabled": "true"
+                                                                    }
+                                                                ],
+                                                                "hasBlendShapes": "false",
+                                                                "hasSkinBones": "false"
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Dartboard",
+                                                "type": "12",
+                                                "subtype": "-1",
+                                                "resourceId": "69",
+                                                "dependency": "1",
+                                                "hidden": "false",
+                                                "uid": "1637091794103739:211763",
+                                                "fileId": "111",
+                                                "originalId": "115",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Dartboard_Base_TEX",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "78",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1638464126610156:245023",
+                                        "fileId": "127",
+                                        "originalId": "128",
+                                        "publicId": "8237",
+                                        "source": "\/Users\/tbrown\/Dev\/Hermosa\/_demos\/darts-demo\/Source\/Dartboard_Base_TEX.png",
+                                        "additional": {
+                                            "originHash": "9737c82d17d68ac55e85c387ca8c1261"
+                                        }
+                                    },
+                                    {
+                                        "name": "Dartboard_Board_TEX",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "79",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1638464129869564:246196",
+                                        "fileId": "130",
+                                        "originalId": "131",
+                                        "publicId": "8238",
+                                        "source": "\/Users\/tbrown\/Dev\/Hermosa\/_demos\/darts-demo\/Source\/Dartboard_Board_TEX.png",
+                                        "additional": {
+                                            "originHash": "9e8cd31b9d789a6a2aa68105ca7295d6"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Game",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "8224",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Scripts",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "8225",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "PowerBar",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "50",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1625000391994548:90583",
+                                        "fileId": "73",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8199",
+                                        "source": "\/private\/var\/folders\/1m\/11bc7pkd3296mtnshy3hy1840000gn\/T\/Lens Studio Internal-EPqwFs\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "GameController",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "65",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1636816334809597:34588",
+                                        "fileId": "107",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8216",
+                                        "source": "\/private\/var\/folders\/1m\/11bc7pkd3296mtnshy3hy1840000gn\/T\/Lens Studio-ljRVSs\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Scoreboard",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "54",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1625003622706133:478691",
+                                        "fileId": "77",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8203",
+                                        "source": "\/private\/var\/folders\/1m\/11bc7pkd3296mtnshy3hy1840000gn\/T\/Lens Studio Internal-EPqwFs\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "8180",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Power_Bar_MAT",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "49",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1625000313344568:81927",
+                                        "fileId": "72",
+                                        "originalId": "91",
+                                        "publicId": "8198",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "System",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "8226",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Hud",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "30",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1623695913410411:10323",
+                                "fileId": "41",
+                                "originalId": "18446744073709551615",
+                                "publicId": "8176",
+                                "source": "\/Users\/tbrown\/Dev\/Hermosa\/capture-restore-test\/Public\/Scripts\/Core\/Hud.js",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FurnitureBuilding",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "8239",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "PieceAdd",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "74",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1638461562814678:35638",
+                                "fileId": "121",
+                                "originalId": "18446744073709551615",
+                                "publicId": "8233",
+                                "source": "\/private\/var\/folders\/1m\/11bc7pkd3296mtnshy3hy1840000gn\/T\/Lens Studio-rBSMmu\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Box",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "75",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1638462904525370:87000",
+                                "fileId": "122",
+                                "originalId": "18446744073709551615",
+                                "publicId": "8234",
+                                "source": "\/private\/var\/folders\/1m\/11bc7pkd3296mtnshy3hy1840000gn\/T\/Lens Studio-rBSMmu\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                "additional": {
+                                    "info": {
+                                        "vertexAttribs": [
+                                            {
+                                                "semantic": "position",
+                                                "format": "9",
+                                                "canBeDisabled": "false"
+                                            },
+                                            {
+                                                "semantic": "normal",
+                                                "format": "9",
+                                                "canBeDisabled": "true"
+                                            },
+                                            {
+                                                "semantic": "tangent",
+                                                "format": "9",
+                                                "canBeDisabled": "true"
+                                            },
+                                            {
+                                                "semantic": "color",
+                                                "format": "3",
+                                                "canBeDisabled": "true"
+                                            },
+                                            {
+                                                "semantic": "texture0",
+                                                "format": "9",
+                                                "canBeDisabled": "true"
+                                            }
+                                        ],
+                                        "hasBlendShapes": "false",
+                                        "hasSkinBones": "false"
+                                    }
+                                }
+                            },
+                            {
+                                "name": "Box 2",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "76",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1638462912660615:91254",
+                                "fileId": "124",
+                                "originalId": "125",
+                                "publicId": "8235",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "TestSpawner",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "77",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1638462920424986:93002",
+                                "fileId": "126",
+                                "originalId": "18446744073709551615",
+                                "publicId": "8236",
+                                "source": "\/private\/var\/folders\/1m\/11bc7pkd3296mtnshy3hy1840000gn\/T\/Lens Studio-rBSMmu\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1638461562814678:35638",
+                        "path_list": [
+                            "PieceAdd"
+                        ]
+                    },
+                    {
+                        "uid": "1638462904525370:87000",
+                        "path_list": [
+                            "Box"
+                        ]
+                    },
+                    {
+                        "uid": "1638462912660615:91254",
+                        "path_list": [
+                            "Box 2"
+                        ]
+                    },
+                    {
+                        "uid": "1638462920424986:93002",
+                        "path_list": [
+                            "TestSpawner"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": "",
+            "33": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1637091870150759:216797",
+                        "v": {
+                            "prefab": "1637091794103739:211763",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1637091793836200:211680",
+                                    "v": "1637091870150759:216797"
+                                },
+                                {
+                                    "k": "1637091793840014:211682",
+                                    "v": "1637091870151318:216803"
+                                },
+                                {
+                                    "k": "1637091793840460:211684",
+                                    "v": "1637091870152624:216817"
+                                },
+                                {
+                                    "k": "1637091793840836:211686",
+                                    "v": "1637091870153376:216820"
+                                },
+                                {
+                                    "k": "1637091793841230:211688",
+                                    "v": "1637091870159437:216895"
+                                },
+                                {
+                                    "k": "1637091793841605:211690",
+                                    "v": "1637091870160479:216898"
+                                },
+                                {
+                                    "k": "1637091793842043:211692",
+                                    "v": "1637091870161497:216901"
+                                },
+                                {
+                                    "k": "1637091793842444:211694",
+                                    "v": "1637091870162695:216904"
+                                },
+                                {
+                                    "k": "1637091793842837:211696",
+                                    "v": "1637091870163787:216907"
+                                },
+                                {
+                                    "k": "1637091793843233:211698",
+                                    "v": "1637091870151627:216805"
+                                },
+                                {
+                                    "k": "1637091794101289:211749",
+                                    "v": "1637091870165560:216913"
+                                },
+                                {
+                                    "k": "1637091794101781:211751",
+                                    "v": "1637091870166072:216915"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1624998420655613:17240",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1624998420418944:17127"
+                        },
+                        {
+                            "k": [
+                                "Barrel"
+                            ],
+                            "v": "1624998420422296:17129"
+                        },
+                        {
+                            "k": [
+                                "Barrel",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1624998420654182:17228"
+                        },
+                        {
+                            "k": [
+                                "Barrel",
+                                "Flight_0"
+                            ],
+                            "v": "1624998420422569:17131"
+                        },
+                        {
+                            "k": [
+                                "Barrel",
+                                "Flight_0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1624998420422927:17133"
+                        },
+                        {
+                            "k": [
+                                "Barrel",
+                                "Flight_0.001"
+                            ],
+                            "v": "1624998420651197:17186"
+                        },
+                        {
+                            "k": [
+                                "Barrel",
+                                "Flight_0.001",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1624998420651433:17188"
+                        },
+                        {
+                            "k": [
+                                "Barrel",
+                                "Flight_0.002"
+                            ],
+                            "v": "1624998420652226:17200"
+                        },
+                        {
+                            "k": [
+                                "Barrel",
+                                "Flight_0.002",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1624998420652434:17202"
+                        },
+                        {
+                            "k": [
+                                "Barrel",
+                                "Flight_0.003"
+                            ],
+                            "v": "1624998420653218:17214"
+                        },
+                        {
+                            "k": [
+                                "Barrel",
+                                "Flight_0.003",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1624998420653442:17216"
+                        }
+                    ]
+                },
+                {
+                    "k": "1627335307440757:502007",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1627335307365926:501936"
+                        },
+                        {
+                            "k": [
+                                "Cone"
+                            ],
+                            "v": "1627335307366452:501938"
+                        },
+                        {
+                            "k": [
+                                "Cone",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1627335307366659:501940"
+                        },
+                        {
+                            "k": [
+                                "Cylinder"
+                            ],
+                            "v": "1627335307439313:501993"
+                        },
+                        {
+                            "k": [
+                                "Cylinder",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1627335307439601:501995"
+                        }
+                    ]
+                },
+                {
+                    "k": "1637091794103739:211763",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1637091793836200:211680"
+                        },
+                        {
+                            "k": [
+                                "Back"
+                            ],
+                            "v": "1637091794101289:211749"
+                        },
+                        {
+                            "k": [
+                                "Back",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1637091794101781:211751"
+                        },
+                        {
+                            "k": [
+                                "Board"
+                            ],
+                            "v": "1637091793840014:211682"
+                        },
+                        {
+                            "k": [
+                                "Board",
+                                "Bullseye_Inner"
+                            ],
+                            "v": "1637091793840836:211686"
+                        },
+                        {
+                            "k": [
+                                "Board",
+                                "Bullseye_Outer"
+                            ],
+                            "v": "1637091793841230:211688"
+                        },
+                        {
+                            "k": [
+                                "Board",
+                                "Center"
+                            ],
+                            "v": "1637091793840460:211684"
+                        },
+                        {
+                            "k": [
+                                "Board",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1637091793843233:211698"
+                        },
+                        {
+                            "k": [
+                                "Board",
+                                "Double_Inside"
+                            ],
+                            "v": "1637091793842444:211694"
+                        },
+                        {
+                            "k": [
+                                "Board",
+                                "Double_Outside"
+                            ],
+                            "v": "1637091793842837:211696"
+                        },
+                        {
+                            "k": [
+                                "Board",
+                                "Treble_Inside"
+                            ],
+                            "v": "1637091793841605:211690"
+                        },
+                        {
+                            "k": [
+                                "Board",
+                                "Treble_Outside"
+                            ],
+                            "v": "1637091793842043:211692"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1624998420102534:17061",
+                    "v": {
+                        "infos": {
+                            "originalSize": "12293",
+                            "compressedSize": "12293",
+                            "originalRAM": "36072",
+                            "compressedRAM": "36072",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "102",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1624998420169093:17075",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1266",
+                            "compressedSize": "1266",
+                            "originalRAM": "1704",
+                            "compressedRAM": "1704",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "103",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1624998420232625:17089",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1258",
+                            "compressedSize": "1258",
+                            "originalRAM": "1704",
+                            "compressedRAM": "1704",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "104",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1624998420301410:17103",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1237",
+                            "compressedSize": "1237",
+                            "originalRAM": "1704",
+                            "compressedRAM": "1704",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "105",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1624998420383168:17117",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1230",
+                            "compressedSize": "1230",
+                            "originalRAM": "1704",
+                            "compressedRAM": "1704",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "106",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1637091793790596:211658",
+                    "v": {
+                        "infos": {
+                            "originalSize": "10344",
+                            "compressedSize": "10344",
+                            "originalRAM": "23688",
+                            "compressedRAM": "23688",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "113",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1637091793825968:211670",
+                    "v": {
+                        "infos": {
+                            "originalSize": "11397",
+                            "compressedSize": "11397",
+                            "originalRAM": "23472",
+                            "compressedRAM": "23472",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "114",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1638462904525370:87000",
+                    "v": {
+                        "infos": {
+                            "originalSize": "794",
+                            "compressedSize": "794",
+                            "originalRAM": "1320",
+                            "compressedRAM": "1320",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "color",
+                                            "format": "3",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "123",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1638464126610156:245023",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1014458",
+                            "compressedSize": "271889",
+                            "originalRAM": "4194304",
+                            "compressedRAM": "524288",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "129",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "9737c82d17d68ac55e85c387ca8c1261",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "134"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1638464129869564:246196",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1008",
+                            "compressedSize": "255",
+                            "originalRAM": "16384",
+                            "compressedRAM": "2048",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "132",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "9e8cd31b9d789a6a2aa68105ca7295d6",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "133"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": ""
+        }
+    },
+    "templateName": "",
+    "templateUrl": ""
+}
