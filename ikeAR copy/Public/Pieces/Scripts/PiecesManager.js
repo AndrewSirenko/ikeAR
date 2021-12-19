@@ -8,17 +8,13 @@
 // @input Component.ScriptComponent waitToAddPiece
 // @input bool activateSelf
 
-script.pieceObjects = [];
-script.ObjectOrder = ['seat', 'leg', 'leg'];
-buildLocationTransform = global.planeTracker.position
+script.stoolObjects = {}
 var counter = 0
-var maxStates = 3
 
 script.activate = function () {
     script.touchStartEvent = script.createEvent("TapEvent");
     script.touchStartEvent.bind(script.stateMachineStool);
-    global.hud.showInstructions("Swipe forward to place next piece");
-    counter = 0;
+    global.hud.showInstructions("Tap to see the first (base) piece.\n Swipe down with 2 fingers to exit anytime.");
 }
 
 script.createEvent("OnStartEvent").bind(function () {
@@ -34,37 +30,46 @@ script.stoolStep0 = function () {
         var leg2Object = script.stoolObjects["leg2"];
         leg2Object.enabled = false;
     }    
+    global.hud.showInstructions("Find the base piece. \nTap to see the next step");
     
     // Instantiate seat
     print("stoolStep0 - init seat");    
     var seatObject = script.seatPrefab.instantiate(script.getSceneObject());
     seatObject.enabled = true;
     script.stoolObjects["seat"] = seatObject;
+    
+    counter = 1;
 }
 
 script.stoolStep1 = function () {
     var seatObject = script.stoolObjects["seat"];
     seatObject.enabled = false;
+    global.hud.showInstructions("Insert the leg into 1st slot. \nTap to see the next step");
     
     // Instantiate leg1 anim
     print("stoolStep1 - insert leg1");    
     var leg1Object = script.leg1Prefab.instantiate(script.getSceneObject());
     leg1Object.enabled = true;
     script.stoolObjects["leg1"] = leg1Object;
+    
+    counter = 2;
 }
 
 script.stoolStep2 = function () {
     var leg1Object = script.stoolObjects["leg1"];
-    leg1Object.enabled = false;    
+    leg1Object.enabled = false;
+    global.hud.showInstructions("Insert another leg into 2nd slot. \nTap to repeat instructions.");
     
     // Instantiate leg2 anim
     print("stoolStep2 - init leg2");
     var leg2Object = script.leg2Prefab.instantiate(script.getSceneObject());
     leg2Object.enabled = true;
     script.stoolObjects["leg2"] = leg2Object;
+    
+    counter = 0;
 }
 
-script.stoolObjects = {}
+
 script.animOrder = {
     0: script.stoolStep0,
     1: script.stoolStep1,
@@ -74,41 +79,5 @@ script.animOrder = {
 
 script.stateMachineStool = function () {
     var currFunc = script.animOrder[counter];
-    currFunc()
-    
-    counter += 1
-    counter %= maxStates
+    currFunc();
 }
-
-
-
-
-
-script.placeLeg = function () {
-    // Instantiate piece
-    var piece = script.legPrefab.instantiate(null);
-    script.pieceObjects.push(piece);
-
-    // Random shift
-    var shift = new vec3(10 * Math.random(), 10 * Math.random(), 10 * Math.random());
-    
-    // Set pose
-    var pieceTransform = buildLocationTransform.add(shift)
-    print(pieceTransform);
-    piece.getTransform().setWorldPosition(pieceTransform);
-
-    // // Set speed
-    // var pieceScript = piece.getComponent("Component.ScriptComponent");
-    
-    //pieceScript.throw(forward, speed);
-    // pieceScript.place(x, y);   
-    
-    // Instant seat
-    print("init seat");    
-    var seatObject = script.seatPrefab.instantiate(script.getSceneObject());
-    seatObject.enabled = true
-    script.pieceObjects.push(piece);   
-    
-}
-
-
