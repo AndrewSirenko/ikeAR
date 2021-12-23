@@ -39,4 +39,4 @@ Augmented reality app that leverages computer vision to speed up assembling IKEA
     2. “Connected Lenses” where multiple people can join the same build session so they can collaborate on the task.
 12. N/A
 13. Asset Sources:
-    1. Book Case
+	N/A
